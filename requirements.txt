@@ -1,0 +1,4 @@
+# These are for the create_required_info.py file, not the python example
+requests
+argparse
+python-dotenv
